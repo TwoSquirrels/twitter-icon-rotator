@@ -1,0 +1,16 @@
+{
+  "name": "twitter-icon-rotator",
+  "version": "1.0.0",
+  "description": "A tool that rotates your Twitter profile picture to match the hour hand of a clock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "repository": "git@github.com:TwoSquirrels/twitter-icon-rotator.git",
+  "author": "TwoSquirrels",
+  "license": "MIT",
+  "private": true
+}
